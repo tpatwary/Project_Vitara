@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Vitara_Funcional_Testing&apos; to &apos;Vitara_Functional_Testing&apos;" description="Rename resource &apos;Vitara_Funcional_Testing&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Vitara_Funcional_Testing" name="Vitara_Functional_Testing" stamp="1666795716638" updateReferences="true"/>
+</session>
